@@ -1,5 +1,5 @@
 # tasks
-this repo contain tasks for several companies
+this repo contains tasks for several companies
 
 Task 1
 
